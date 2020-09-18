@@ -2912,7 +2912,7 @@ BASE
     padding-bottom: 40px;
     margin-top: 0;
     background-color: #6F6F6F;
-    border-bottom: 1px solid #E6E6E6;
+   
 }
 
     .header-base:not(.bg-cover) {
@@ -3041,7 +3041,7 @@ VIDEO
 }
 
 .header-video {
-    height: 350px;
+    height: 200px;
     overflow: hidden;
 }
 
