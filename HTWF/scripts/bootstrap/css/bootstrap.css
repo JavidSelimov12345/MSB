@@ -2777,7 +2777,7 @@ tbody.collapse.in {
   margin: 2px 0 0;
   list-style: none;
   text-align: left;
-  background-color: #f7f7f7;
+  background-color: #dddddd;
   border: 1px solid rgb(226, 226, 226);
   border-radius: 2px;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
