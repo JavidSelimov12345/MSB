@@ -35,7 +35,7 @@ CONTENT BOXES
     }
 
 .section-bg-color .boxed-inverse, .section-bg-color .advs-box.boxed-inverse {
-    background-color: #FFF;
+    background-color: #fff;
 }
 
 .advs-box .tag-row, .base-box .tag-row {
@@ -1160,4 +1160,8 @@ html.iex .advs-box-side-icon .icon-box i {
 html.iex .pricing-table-big {
     margin: 0;
     zoom: 0;
+}
+
+.advs-box-content{
+    background-color: #f0f0f0;
 }
