@@ -5084,7 +5084,7 @@ div.content {
     }
 
 .section-empty, .footer-parallax-container.bg-color, .footer-parallax-container > .content {
-    background-color: #FFF;
+    background-color: #f0f0f0;
     position: relative;
     z-index: 3;
     overflow: hidden;
