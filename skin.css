@@ -34,7 +34,7 @@ COLORS
 .woocommerce .product span.onsale, .circle-button, .btn.circle-button, .btn, .header-bootstrap, .header-title hr, .advs-box.boxed, i.circle, .intro-box:after, .intro-box:before,
 .advs-box-side-img hr, .call-action-box, .title-base hr, .nav.inner.ms-mini, .bg-color, .header-title.white .title-base hr, .header-animation.white .title-base hr,
 .title-base .scroll-top, .title-modern .scroll-top, i.square, .header-base, .progress-bar, .tagbox span, .niche-box-post .block-infos .block-data, .header-base .title-base h1:before {
-    background-color: #39587F;
+    background-color: #113567;
 }
 
     .navbar-inner .nav.ms-minimal li a:before, .header-base.white, .advs-box-multiple.boxed .advs-box-content {
@@ -57,7 +57,7 @@ COLORS
     .niche-box-testimonails h5, .title-icon i, i, .fullpage-menu.white li.active a i, .timeline > li > .timeline-label h4, .anima-button i, .pricing-table .list-group-item.pricing-price,
     .footer-center .footer-title, .accordion-list .list-group-item > a.active, .btn-border, .btn.btn-border, .btn.circle-button.btn-border, footer a:hover, .block-quote.quote-1:before,
     .block-quote.quote-2:before, .breadcrumb > li + li:before, .adv-img-full-content p.sub {
-        color: #39587F;
+        color: white;
     }
 
 @media (max-width: 994px) {
@@ -73,11 +73,11 @@ COLORS
 }
 
 .btn-border:hover, .btn.btn-border:hover, .btn.circle-button.btn-border:hover, .tag-row i {
-    color: #113567;
+    color: white;
 }
 
     .btn-border:hover i, .white .btn i {
-        color: #113567 !important;
+        color: white !important;
     }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .pagination > li:not(.disabled):hover > a i:before, .advs-box-multiple div.circle, .advs-box-multiple div.circle i {
@@ -113,7 +113,7 @@ body div.boxed-border.border-yellow, .pagination li.active a {
 }
 
 .circle-button:hover, .btn:hover {
-    border-color: #113567 !important;
+    border-color: white !important;
 }
 
 .btn-text, html .advs-box .btn-text:after {
