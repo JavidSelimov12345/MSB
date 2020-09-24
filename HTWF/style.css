@@ -25,7 +25,7 @@ GENERAL
     color:black;
 }
 .firstcolor{
-    color:#71C2ED;
+    color:black;
 }
 .white{
     color:white;
@@ -35,7 +35,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .list-
     font-size: 13px;
     line-height: 1.42857143;
     /* color: #4C4C4C; */
-    color:#5CA3D7;
+    color:black;
 }
 
 .text-color, .mi-menu ul li > a:before, .sidebar-nav .panel-item > span:before, i.icon, .block-infos .bd-day {
@@ -3598,11 +3598,12 @@ SOCIAL
 }
 
     .social-group i.circle, .social-button i.circle {
-        color: #585858;
+        color: white;
         background: none;
-        border: 1px solid #828282;
+        border: 1px solid #113567;
         margin-right: 2.5px;
         margin-left: 2.5px;
+        cursor:pointer;
     }
 
 .social-group a {
@@ -3714,7 +3715,8 @@ SOCIAL
 }
 
 .social-group [class*="facebook"]:hover, .social-colors [class*="facebook"] {
-    background-color: #3B5998;
+    color: #3B5998;
+    background-color: white;
 }
 
 .social-group [class*="twitter"]:hover, .social-colors [class*="twitter"] {
@@ -3730,11 +3732,13 @@ SOCIAL
 }
 
 .social-group [class*="youtube"]:hover, .social-colors [class*="youtube"] {
-    background-color: #cc181e;
+    color: #cc181e;
+    background-color: white;
 }
 
 .social-group [class*="instagram"]:hover, .social-colors [class*="instagram"] {
-    background-color: #464646;
+   color: #464646;
+   background-color: white;
 }
 
 .social-colors i:hover {

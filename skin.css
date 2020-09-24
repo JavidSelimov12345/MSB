@@ -97,7 +97,7 @@ COLORS
 
 .boxed.advs-box-multiple .advs-box-content, .niche-box-post, .extra-content, .quote-author, .border-color, .border-color.boxed-border.boxed-border.white, .img-border, .timeline > li > .timeline-badge,
 body div.boxed-border.border-yellow, .pagination li.active a {
-    border-color: #71C2ED !important;
+    border-color: black !important;
 }
 
 .datepicker-top-left, .datepicker-top-right {
@@ -117,8 +117,8 @@ body div.boxed-border.border-yellow, .pagination li.active a {
 }
 
 .btn-text, html .advs-box .btn-text:after {
-    color: #71C2ED;
-    border-color: #71C2ED;
+    color: #113567;
+    border-color: #113567;
 }
 
 .white.btn, .white .btn, .white .tag-row a, .header-bootstrap i.icon, .white .tag-row i, .white .advs-box-content h2 a, .white.advs-box-side-img h2 a, .advs-box-side-icon.boxed .icon-box i,
