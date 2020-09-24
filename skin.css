@@ -29,6 +29,13 @@ COLORS
 */
 
 
+.bc-hb{
+    background-color: #113567 !important;
+    color:white !important;
+}
+
+
+
 .extra-content, .nav:not(.ms-rounded) li > a:before, .boxed.advs-box-top-icon-img .advs-box-content, [class*="col-md-"].boxed,
 .advs-box-side-img hr, .mi-menu .sidebar-nav, .advs-box-top-icon-img.niche-box-post:after, .accordion-list .list-group-item:before, [class*=header-] .title-base h1:before,
 .woocommerce .product span.onsale, .circle-button, .btn.circle-button, .btn, .header-bootstrap, .header-title hr, .advs-box.boxed, i.circle, .intro-box:after, .intro-box:before,
@@ -73,7 +80,7 @@ COLORS
 }
 
 .btn-border:hover, .btn.btn-border:hover, .btn.circle-button.btn-border:hover, .tag-row i {
-    color: white;
+    
 }
 
     .btn-border:hover i, .white .btn i {
@@ -113,7 +120,7 @@ body div.boxed-border.border-yellow, .pagination li.active a {
 }
 
 .circle-button:hover, .btn:hover {
-    border-color: white !important;
+    /* border-color: white !important; */
 }
 
 .btn-text, html .advs-box .btn-text:after {
@@ -124,7 +131,7 @@ body div.boxed-border.border-yellow, .pagination li.active a {
 .white.btn, .white .btn, .white .tag-row a, .header-bootstrap i.icon, .white .tag-row i, .white .advs-box-content h2 a, .white.advs-box-side-img h2 a, .advs-box-side-icon.boxed .icon-box i,
 .circle-button, .white .pagination > li.disabled > a, .white .pagination > li > a, .social-colors i, .btn.circle-button, .btn, .btn i, .circle-button, .btn.circle-button, .btn:hover,
 .btn:hover i, .btn.focus, .input-group button {
-    color: #fff;
+    /* color: #fff; */
 }
 
     .nav.inner.ms-rounded > li > a:hover, .white .btn-text:hover, .header-base.white .breadcrumb.b a, .mi-menu .sidebar-nav ul a:hover, .white .btn.btn-border:hover, .white.advs-box-top-icon h3,

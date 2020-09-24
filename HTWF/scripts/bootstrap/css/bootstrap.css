@@ -3783,7 +3783,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (max-width: 992px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #585858;
+    color: white;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
