@@ -44,7 +44,7 @@ COLORS
     .btn:not(.btn-border):hover, .btn-primary:focus, .boxed .btn, .btn-primary.focus, .side-menu .active,
     .white.circle-button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover,
     .woocommerce input.button.alt:hover, .white .title-base.yellow-bar hr {
-        background-color: #f39f07 !important;
+        background-color: #000000 !important;
     }
 
     i.icon, .fullpage-menu .active i, .navbar-default .navbar-toggle:hover i, .navbar-default .navbar-toggle:focus i, header .side-menu .active > a,
