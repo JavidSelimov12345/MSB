@@ -73,11 +73,11 @@ COLORS
 }
 
 .btn-border:hover, .btn.btn-border:hover, .btn.circle-button.btn-border:hover, .tag-row i {
-    color: #f39f07;
+    color: #113567;
 }
 
     .btn-border:hover i, .white .btn i {
-        color: #f39f07 !important;
+        color: #113567 !important;
     }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .pagination > li:not(.disabled):hover > a i:before, .advs-box-multiple div.circle, .advs-box-multiple div.circle i {
@@ -92,7 +92,7 @@ COLORS
 
 .circle-button, .btn-default, .white .btn:not(.btn-border), .btn-border, .bg-transparent .navbar-nav > li.active > a .caret:before, .bg-transparent .navbar-nav > li:hover > a .caret:before,
 .white .btn-text, .scroll-top-mobile:hover:before, .tab-box.left:not(.pills) .panel-box, .tab-box.right:not(.pills) .panel-box, .tab-box.right .nav-tabs {
-    border-color: #F3B007;
+    border-color: #000000;
 }
 
 .boxed.advs-box-multiple .advs-box-content, .niche-box-post, .extra-content, .quote-author, .border-color, .border-color.boxed-border.boxed-border.white, .img-border, .timeline > li > .timeline-badge,
@@ -113,7 +113,7 @@ body div.boxed-border.border-yellow, .pagination li.active a {
 }
 
 .circle-button:hover, .btn:hover {
-    border-color: #f39f07 !important;
+    border-color: #113567 !important;
 }
 
 .btn-text, html .advs-box .btn-text:after {
