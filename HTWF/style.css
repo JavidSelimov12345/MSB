@@ -7354,3 +7354,8 @@ html.iex .footer-parallax {
 .dirtyoutube:hover{
     color:red !important;
 }
+
+.myptag{
+    text-align: justify !important;
+    margin: 0px 20px;
+}
