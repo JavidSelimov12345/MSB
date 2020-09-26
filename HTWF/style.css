@@ -6017,7 +6017,7 @@ button.navbar-toggle {
     font-size: 25px;
     margin: 2px 5px 0 5px;
     line-height: 23px;
-    color: #4C4C4C;
+    color: white;
 }
 
 .side-menu li.active > ul {
@@ -6216,7 +6216,7 @@ MENU - RESPONSIVE
 ------------------------------
 */
     .navbar-header {
-        background-color: #FFF;
+        background-color: #113567;
     }
 
     .bg-transparent .navbar-header {
