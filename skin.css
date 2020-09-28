@@ -64,8 +64,8 @@ COLORS
     .niche-box-testimonails h5, .title-icon i, i, .fullpage-menu.white li.active a i, .timeline > li > .timeline-label h4, .anima-button i, .pricing-table .list-group-item.pricing-price,
     .footer-center .footer-title, .accordion-list .list-group-item > a.active, .btn-border, .btn.btn-border, .btn.circle-button.btn-border, footer a:hover, .block-quote.quote-1:before,
     .block-quote.quote-2:before, .breadcrumb > li + li:before, .adv-img-full-content p.sub {
-        /* color: #113567; */
-        color:white;
+        color: #113567;
+        /* color:white; */
     }
 
 @media (max-width: 994px) {
@@ -1906,4 +1906,8 @@ RESPONSIVE
     .header-base .breadcrumb, .header-bootstrap .breadcrumb {
         text-align: left;
     }
+}
+
+.navbar-toggle:hover i, .navbar-default .navbar-toggle:focus i{
+    color:white !important;
 }
