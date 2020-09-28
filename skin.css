@@ -79,6 +79,10 @@ COLORS
 .boxed .btn:hover i, .pagination > .active > a, .pagination > li:not(.disabled):hover > a, .boxed .circle-button, header .btn-search:hover, .advs-box h2 a:hover, .nav.ms-minimal > li.active > a {
     color: white !important;
 }
+.nav.inner.ms-rounded > li.active a{
+
+    color:#113567 !important;
+}
 
 .btn-border:hover, .btn.btn-border:hover, .btn.circle-button.btn-border:hover, .tag-row i {
     
