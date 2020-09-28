@@ -100,7 +100,7 @@ COLORS
 
 .circle-button, .btn-default, .white .btn:not(.btn-border), .btn-border, .bg-transparent .navbar-nav > li.active > a .caret:before, .bg-transparent .navbar-nav > li:hover > a .caret:before,
 .white .btn-text, .scroll-top-mobile:hover:before, .tab-box.left:not(.pills) .panel-box, .tab-box.right:not(.pills) .panel-box, .tab-box.right .nav-tabs {
-    border-color: #000000;
+    /* border-color: #000000; */
 }
 
 .boxed.advs-box-multiple .advs-box-content, .niche-box-post, .extra-content, .quote-author, .border-color, .border-color.boxed-border.boxed-border.white, .img-border, .timeline > li > .timeline-badge,
@@ -132,7 +132,7 @@ body div.boxed-border.border-yellow, .pagination li.active a {
 .white.btn, .white .btn, .white .tag-row a, .header-bootstrap i.icon, .white .tag-row i, .white .advs-box-content h2 a, .white.advs-box-side-img h2 a, .advs-box-side-icon.boxed .icon-box i,
 .circle-button, .white .pagination > li.disabled > a, .white .pagination > li > a, .social-colors i, .btn.circle-button, .btn, .btn i, .circle-button, .btn.circle-button, .btn:hover,
 .btn:hover i, .btn.focus, .input-group button {
-    /* color: #fff; */
+    color: #fff;
 }
 
     .nav.inner.ms-rounded > li > a:hover, .white .btn-text:hover, .header-base.white .breadcrumb.b a, .mi-menu .sidebar-nav ul a:hover, .white .btn.btn-border:hover, .white.advs-box-top-icon h3,
@@ -931,7 +931,7 @@ COMPONENTS
 }
 
 .btn-border, .btn-border, .white .btn-border {
-    border-width: 1px;
+    /* border-width: 1px; */
     font-weight: 500;
 }
 
