@@ -476,7 +476,7 @@ p {
 }
 
 hr {
-    border-top: 1px solid #d6d6d6;
+    border-top: 1px solid transparent;
 }
 
 .container.content, .section-empty > .content, .section-bg-image > .content, .section-bg-video > .content, .section-bg-animation > .content, .section-slider > .content, .section-two-blocks .content {
