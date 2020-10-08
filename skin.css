@@ -1915,3 +1915,9 @@ RESPONSIVE
 .navbar-toggle:hover i, .navbar-default .navbar-toggle:focus i{
     color:white !important;
 }
+
+@media screen and (min-width: 1100px) {
+    .margin-15{
+      margin-left: -15px;
+    }
+  }
