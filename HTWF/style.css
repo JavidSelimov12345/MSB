@@ -6731,7 +6731,7 @@ TITLE - RESPONSIVE
     }
 
     .title-base hr {
-        display: none;
+        /* display: none; */
     }
 
     .header-base {
