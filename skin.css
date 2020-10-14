@@ -1233,12 +1233,12 @@ div.adv-img p {
     }
 
     .advs-box-top-icon.text-left.boxed .icon, .advs-box-top-icon.text-left.boxed-inverse .icon {
-        left: 13px;
+        left: 33%;
         text-align: center;
     }
 
     .advs-box-top-icon.boxed-inverse .icon {
-        background: #fff;
+        background: #F7F7F7;
     }
 
 html body .advs-box-top-icon h3 {
