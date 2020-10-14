@@ -126,6 +126,7 @@ body div.boxed-border.border-yellow, .pagination li.active a {
 
 .circle-button:hover, .btn:hover {
     /* border-color: white !important; */
+    opacity:0.7;
 }
 
 .btn-text, html .advs-box .btn-text:after {
