@@ -631,7 +631,7 @@ HEADER AND MENUS
             position: absolute;
             content: '';
             background-color:#113567;
-            height: 22px;
+            height: 25px;
             width: 6000px;
             right: 0;
             top: 0px;
@@ -1937,4 +1937,13 @@ RESPONSIVE
     }
     .header-video, .section-slide, .header-title:after {
         background-color: #F7F7F7;
+        
   }
+
+  .sliderflex{ margin: 47px 15px 23px 15px !important;  }
+
+
+}
+
+  
+ 
