@@ -92,6 +92,10 @@ COLORS
         color: white !important;
     }
 
+    .sendd{
+        color:#113567 !important;
+    }  
+
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .pagination > li:not(.disabled):hover > a i:before, .advs-box-multiple div.circle, .advs-box-multiple div.circle i {
     border-color: #F3B007 !important;
     color: #F3B007 !important;
