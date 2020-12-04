@@ -3703,7 +3703,7 @@ SOCIAL
 
 .social-group .fa:hover {
     color: white;
-    background-color: #505050;
+    /* background-color: #505050; */
     border-radius: 2px;
 }
 
@@ -3721,7 +3721,7 @@ SOCIAL
 }
 
 .social-group [class*="facebook"]:hover, .social-colors [class*="facebook"] {
-    color: #3B5998;
+    /* color: #3B5998; */
     background-color: white;
 }
 
