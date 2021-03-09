@@ -30,6 +30,9 @@
 </head>
 
 <body>
+
+    
+
     <div class="contaiiner">
          <header class="fixed-top scroll-change" data-menu-anima="fade-in">
         <div class="navbar navbar-default mega-menu-fullwidth navbar-fixed-top" role="navigation">
@@ -416,88 +419,90 @@
     
 
 
-    <div id="popup-7" class="popup-banner popup-bottom-right fade-right" data-popup-anima="fade-right"
-        style="display: block; transition-duration: 300ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
-        <i class="fa fa-times popup-close"></i>
-        <div class=" panel-default">
-            <div class="panel-body">
-                <div class="col-md-12">
+    
+    <div id="popup-7" class="popup-banner popup-bottom-right " data-popup-anima="fade-right"
+    style="display: block; transition-duration: 300ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+    <!-- <i class="fa fa-times popup-close" id="closed"style="z-index: 1000000000000000000;"></i> -->
+    <div class=" panel-default">
+        <div class="panel-body">
+            <div class="col-md-12">
 
-                    <a class="img-box lightbox thumbnail" href="#lb2" data-lightbox-anima="show-scale">
-                        <span>
-                            <img alt="" src="../images/avatar-3.jpg">
+                <a class="img-box lightbox thumbnail" href="#lb2"id="imm" data-lightbox-anima="show-scale">
+                    <!-- <span>
+                        <img alt="" src="../images/avatar-3.jpg">
 
-                        </span>
+                    </span> -->
+                    <h5>MƏNƏ ZƏNG EDİN</h5>
 
-                    </a>
-                    <div id="lb2" class="box-lightbox mfp-hide" style="padding: 50px; display: block;">
-                        <div class="subtitle g">
-                            <h4>Müraciət</h4>
-                            <hr>
+                </a>
+                <div id="lb2" class="box-lightbox mfp-hide" style="padding: 50px; display: block;">
+                    <div class="subtitle g">
+                        <center><h4>SİZİNLƏ ƏLAQƏ SAXLAMAQ ÜÇÜN  MƏLUMATLARINIZI <br>DAXİL EDİN </h4></center>
+                        
+                        <hr>
 
-                        </div>
-                        <div class="section-empty section-item text-center">
-                            <div class="container content">
+                    </div>
+                    <div class="section-empty section-item text-center">
+                        <div class="container content">
 
-                                <hr class="space m">
-                                <div class="row">
+                            <hr class="space m">
+                            <div class="row">
 
-                                    <div class="col-md-7">
-                                        <form action="" class="form-box form-ajax" method="post">
-                                            <div class="row">
+                                <div class="col-md-7">
+                                    <form action="" class="form-box form-ajax ress" method="post">
+                                        <div class="row">
 
-                                            </div>
-                                            <div class="row">
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <hr class="space xs">
+
+                                                <input id="phone" name="phone" placeholder="Ad,Soyad" type="text"
+                                                    class="form-control form-value">
+                                                <hr class="space xs">
+                                                <hr class="space s">
+
+                                                <input id="phone" name="phone" placeholder="Mobil telefon"
+                                                    type="text" class="form-control form-value">
+                                                <hr class="space s">
                                                 <div class="col-md-12">
-                                                    <hr class="space xs">
 
-                                                    <input id="phone" name="phone" placeholder="Ad,Soyad" type="text"
+                                                    <select name="nights" id="nights"
                                                         class="form-control form-value">
-                                                    <hr class="space xs">
-                                                    <hr class="space s">
-
-                                                    <input id="phone" name="phone" placeholder="Mobil telefon"
-                                                        type="text" class="form-control form-value">
-                                                    <hr class="space s">
-                                                    <div class="col-md-12">
-
-                                                        <select name="nights" id="nights"
-                                                            class="form-control form-value">
-                                                            <option value="0" selected="">Dairəvi qapılar</option>
-                                                            <option value="1">Sürətli sənaye qapıları</option>
-                                                            <option value="2">Avtomatik fotoselli qapılar</option>
-                                                            <option value="3">Avtomatik jalüz qapıları</option>
-                                                            <option value="4">Avtomatik qaraj qapıları</option>
-                                                            <option value="5">Avtomatik darvazalar</option>
-                                                            <option value="6">Yana sürüşən qapılar</option>
-                                                            <option value="7">Seyf qapılar</option>
-                                                            <option value="8">Avtomatik keçid baryer sistemləri</option>
-                                                            <option value="9">Avtomatik sənaye qapıları</option>
-                                                            <option value="10">Avtomatik seksional qapılar</option>
-                                                            <option value="11">Personal keçid qapılar</option>
-                                                            <option value="12">Avtomatik qapılar</option>
-                                                            <option value="12">Dəmir darvazalar</option>
-                                                        </select>
-                                                    </div>
-                                                    <hr class="space s">
-                                                    <button class="btn-sm btn mybutton" type="submit">Send messagge</button>
+                                                        <option value="0" selected="">Dairəvi qapılar</option>
+                                                        <option value="1">Sürətli sənaye qapıları</option>
+                                                        <option value="2">Avtomatik fotoselli qapılar</option>
+                                                        <option value="3">Avtomatik jalüz qapıları</option>
+                                                        <option value="4">Avtomatik qaraj qapıları</option>
+                                                        <option value="5">Avtomatik darvazalar</option>
+                                                        <option value="6">Yana sürüşən qapılar</option>
+                                                        <option value="7">Seyf qapılar</option>
+                                                        <option value="8">Avtomatik keçid baryer sistemləri</option>
+                                                        <option value="9">Avtomatik sənaye qapıları</option>
+                                                        <option value="10">Avtomatik seksional qapılar</option>
+                                                        <option value="11">Personal keçid qapılar</option>
+                                                        <option value="12">Avtomatik qapılar</option>
+                                                        <option value="12">Dəmir darvazalar</option>
+                                                    </select>
                                                 </div>
+                                                <hr class="space s">
+                                                <button class="btn-sm btn mybutton" type="submit">Send messagge</button>
                                             </div>
+                                        </div>
 
-                                        </form>
-                                    </div>
-
+                                    </form>
                                 </div>
 
-
                             </div>
+
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
+</div>
 
 
 
@@ -600,13 +605,16 @@
         <script src="../HTWF/scripts/jquery.slimscroll.min.js"></script>
 
         <script src="../themekit.dev/tools/sidebar/sidebar.js" data-setting="yellowbusiness"></script>
-        <script>
+
+        
+
+        <!-- <script>
             setTimeout(function () { document.getElementById("popup-7").style.display = "none"; }, 3000);
-        </script>
+        </script> -->
     </footer>
-    <script>
+    <!-- <script>
         setTimeout(function () { document.getElementById("popup-7").style.display = "none"; }, 3000);
-    </script>
+    </script> -->
     </div>
 
    

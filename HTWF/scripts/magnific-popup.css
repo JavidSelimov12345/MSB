@@ -561,7 +561,7 @@ Schiocco - Copyright (c) Federico Schiocchet - Schiocco (www.Schiocco.it) - Fram
     margin: 10px auto;
     border-radius: 2px;
     display: none;
-    max-width: 800px;
+    max-width: 647px;
     max-height: 750px;
     padding: 30px;
     float: none;
@@ -617,7 +617,7 @@ POPUP
 
 .popup-banner {
     position: fixed;
-    width: 250px;
+    /* width: 250px; */
     z-index: 1050;
     display: none;
 }
@@ -652,8 +652,8 @@ POPUP
     }
 
     .popup-banner.popup-bottom-right {
-        bottom: 25px;
-        right: 25px;
+        bottom: 5px;
+        right: 5px;
     }
 
     .popup-banner.popup-bottom-left {
